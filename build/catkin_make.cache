@@ -1,0 +1,2 @@
+IKP:custom_msg_cpp:walk
+-DCATKIN_DEVEL_PREFIX=/home/hermak/fidgerald_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hermak/fidgerald_ws/install -G Unix Makefiles

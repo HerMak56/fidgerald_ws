@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: custom_msg_cpp
+Description: Description of custom_msg_cpp
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

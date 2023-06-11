@@ -1,0 +1,12 @@
+std_msgs/Float64 x_R
+std_msgs/Float64 y_R
+std_msgs/Float64 z_R
+std_msgs/Float64 alpha_R
+std_msgs/Float64 beta_R
+std_msgs/Float64 gamma_R
+std_msgs/Float64 x_L
+std_msgs/Float64 y_L
+std_msgs/Float64 z_L
+std_msgs/Float64 alpha_L
+std_msgs/Float64 beta_L
+std_msgs/Float64 gamma_L

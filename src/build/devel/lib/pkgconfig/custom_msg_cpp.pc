@@ -1,0 +1,8 @@
+prefix=/home/hermak/fidgerald_ws/src/build/devel
+
+Name: custom_msg_cpp
+Description: Description of custom_msg_cpp
+Version: 0.0.0
+Cflags: -I/home/hermak/fidgerald_ws/src/build/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
